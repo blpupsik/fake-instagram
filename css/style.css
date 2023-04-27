@@ -22,9 +22,9 @@
 .box2 {
   flex-grow: 1;
   background-color: rgb(0, 0, 0);
-  border-right: 1px solid #262626;
   display: flex;
   justify-content: flex-start;
+  width: 75.8vh;
 }
 
 .box3 {
@@ -55,7 +55,7 @@
 }
 
 
-span {
+.exe {
   vertical-align: top;
   margin-top: -6px;
   margin-bottom: -6px;
@@ -125,6 +125,7 @@ span {
 }
 
 .zap {
+
   height: 1000px;
   width: 320px;
   background-color: rgb(59, 59, 59);
